@@ -1,2 +1,2 @@
 # fitchef4u
-An app landing page for a foodtech startup made using HTML5, CSS3 and Bootstrap.
+A mock-up app landing website created with minimal design for an imaginary foodtech startup named "Fitchef4u".
