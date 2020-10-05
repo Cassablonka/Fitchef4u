@@ -21,6 +21,7 @@ p {
 /* Title Section */
 #title {
   background-color: #feb72b;
+  background-size: cover;
   text-align: left;
 }
 
